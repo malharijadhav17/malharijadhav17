@@ -20,10 +20,6 @@
 
 ## 📊 **GitHub Activity Graph**
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malharijadhav17&theme=github-dark)
-
-### 🐍 **Contribution Snake Animation**
-![Contribution Snake](https://github.com/malharijadhav17/malharijadhav17/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📈 **GitHub Stats**
