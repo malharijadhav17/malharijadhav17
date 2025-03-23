@@ -18,10 +18,6 @@
 
 ---
 
-## 📊 **GitHub Activity Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malharijadhav17&theme=github-dark)
----
-
 ## 📈 **GitHub Stats**
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=malharijadhav17&show_icons=true&theme=radical" />
@@ -44,6 +40,10 @@
 
 ---
 
+## 📊 **GitHub Activity Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malharijadhav17&theme=github-dark)
+
+---
 ## 📣 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/malharijadhav/" target="_blank">
