@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Malhari Jadhav</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | AI Enthusiast | Tech Content Creator 🚀</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/malharijadhav17">
-    <img src="https://readme-typing-svg.herokuapp.com?color=F77210&width=500&lines=Full-Stack+Developer;AI+and+ML+Enthusiast;React+%7C+Node.js+%7C+.NET+%7C+MySQL;Tech+Content+Creator;Passionate+about+Innovative+Tech" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=F77210&width=500&center=true&vCenter=true&lines=Full-Stack+Developer;AI+and+ML+Enthusiast;React+%7C+Node.js+%7C+.NET+%7C+MySQL;Tech+Content+Creator;Passionate+about+Innovative+Tech" />
   </a>
-</p>
+</div>
 
 ---
 
