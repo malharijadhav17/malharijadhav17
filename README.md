@@ -12,4 +12,4 @@
 📺 **YouTube:** [MJ Technical Solution](https://www.youtube.com/@MJTechnicalSolution) – Tech videos & tutorials!  
 
 💬 **Connect With Me:**  
-📧 malharijadhav17@gmail.com | 🌍 [GitHub](https://github.com/malharijadhav17) | 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 malharijadhav17@gmail.com | 🌍 [GitHub](https://github.com/malharijadhav17) | 🔗 [LinkedIn](https://linkedin.com/in/malharijadhav)
