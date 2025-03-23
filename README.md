@@ -1,59 +1,62 @@
-<h1 align="center">🚀 Malhari Jadhav 🚀</h1>
+<h1 align="center">Hi 👋, I'm Malhari Jadhav</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | AI Enthusiast | Tech Content Creator 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7A41D&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full-Stack+Developer;AI+Enthusiast;YouTuber+%7C+Tech+Creator" alt="Typing SVG" />
+  <a href="https://github.com/malharijadhav17">
+    <img src="https://readme-typing-svg.herokuapp.com?color=F77210&width=500&lines=Full-Stack+Developer;AI+and+ML+Enthusiast;React+%7C+Node.js+%7C+.NET+%7C+MySQL;Tech+Content+Creator;Passionate+about+Innovative+Tech" />
+  </a>
 </p>
 
 ---
 
-## 🌟 **About Me**
-- 🔭 I’m a **Full-Stack Developer** with expertise in **React, Node.js, .NET Core, and Python**  
-- 🎯 Passionate about **AI, Web Development, and Open Source**  
-- 🎥 **YouTube:** [MJ Technical Solution](https://www.youtube.com/@MJTechnicalSolution)  
-- 💬 Ask me about **Web Development, APIs, AI & Machine Learning**  
-- 🌎 **Portfolio:** *Coming Soon!*  
+## 🚀 **About Me**
+- 🔭 I’m currently working on **AI & Full-Stack Web Development**
+- 🌱 I’m learning **.NET, React Native, and AI Integration**
+- 🎥 I create tech tutorials on **[MJ Technical Solution](https://www.youtube.com/@MJTechnicalSolution)**
+- 💬 Ask me about **React.js, Node.js, .NET, and AI**
+- 📫 Reach me at **malharijadhav17@gmail.com**
 
 ---
 
-## 📊 **GitHub Stats & Activity**
+## 📊 **GitHub Activity Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malharijadhav17&theme=github-dark)
+
+### 🐍 **Contribution Snake Animation**
+![Contribution Snake](https://github.com/malharijadhav17/malharijadhav17/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📈 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malharijadhav17&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malharijadhav17&theme=tokyonight" width="48%" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malharijadhav17&theme=github-dark" width="100%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=malharijadhav17&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=malharijadhav17&theme=radical" />
 </div>
 
 ---
 
-## 🔥 **Top Languages**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malharijadhav17&langs_count=8&theme=tokyonight&layout=compact&hide=html" />
-</div>
-
----
-
-## 🛠️ **Tech Stack & Tools**
+## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,mysql,mongodb,postgres,git,github,vscode,linux" />
+  <img src="https://github-profile-trophy.vercel.app/?username=malharijadhav17&theme=radical&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-## 🌆 **GitHub Skyline (3D Contribution Map)**
-<div align="center">
-  <img src="https://skyline.github.com/malharijadhav17/2024" width="80%" />
-</div>
-
----
-
-## 📌 **Connect With Me**
+## 🔥 **Top Technologies**
 <p align="center">
-  <a href="https://github.com/malharijadhav17"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/malharijadhav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@MJTechnicalSolution"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:malharijadhav17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,mysql,mongodb,python,js,ts,html,css,bootstrap,tailwind,androidstudio" />
 </p>
 
 ---
 
-**⚡ Fun Fact:** `"Coding is like magic, but instead of wands, we use keyboards!"` 😃🔥
+## 📣 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/malharijadhav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@MJTechnicalSolution" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:malharijadhav17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
