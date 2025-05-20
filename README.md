@@ -14,7 +14,7 @@
 - 🌱 I’m learning **.NET, React Native, and AI Integration**
 - 🎥 I create tech tutorials on **[MJ Technical Solution](https://www.youtube.com/@MJTechnicalSolution)**
 - 💬 Ask me about **React.js, Node.js, .NET, and AI**
-- 📫 Reach me at **malharijadhav17@gmail.com**
+- 📫 Reach me at **malharijadhav1717@gmail.com**
 
 ---
 
