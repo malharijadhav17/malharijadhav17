@@ -32,12 +32,10 @@
 </p>
 
 ---
-
 ## 🔥 **Top Technologies**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,mysql,mongodb,python,js,ts,html,css,bootstrap,tailwind,androidstudio" />
 </p>
-
 ---
 
 ## 📊 **GitHub Activity Graph**
